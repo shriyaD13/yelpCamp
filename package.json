@@ -20,7 +20,8 @@
     "multer-storage-cloudinary": "^4.0.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
-    "passport-local-mongoose": "^6.1.0"
+    "passport-local-mongoose": "^6.1.0",
+    "ejs-mate": "^3.0.0"
   },
   "devDependencies": {
     "ejs-mate": "^3.0.0"
